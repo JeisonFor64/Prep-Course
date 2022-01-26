@@ -1,0 +1,13 @@
+ * Variables: Una variable es donde se guarda datos que se utilizan en un programa. Todas las variables tienen un tipo de dato.
+
+ * Strings: Es una cadena de caracteres.
+
+ * Funciones (argumentos, `return`): Es un miniprograma que recibe unos parametros, para luego realizar una operacion y 
+   retornar un resultado.
+
+ * Declaraciones `if`: Una declaracion es una expresion que esta relacionada con algun tipo de dato o operacion. IF 
+ es una sentencia que evalua una condicion, si esta conficion es verdadera se ejecuta el codigo, de lo contrario 
+ si es falsa puede ejecutar otras sentencias.
+
+ * Valores booleanos (`true`, `false`): Es un tipo de dato logico que representa dos estados binarios los cuales pueden ser
+ "true" que es verdadero y "false" que es falso.
